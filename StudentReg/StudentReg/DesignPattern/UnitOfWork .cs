@@ -11,7 +11,7 @@ namespace StudentReg.DesignPattern
         private StudentReg.EF.StudentEntities context = new StudentReg.EF.StudentEntities();
         private GenericRepository<Student> departmentRepository;
         //private GenericRepository<Course> courseRepository;
-
+        //----------------------------------------------------
         public GenericRepository<Student> DepartmentRepository
         {
             get
