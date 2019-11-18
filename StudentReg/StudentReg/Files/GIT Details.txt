@@ -1,0 +1,8 @@
+﻿https://github.com/sumesh7353511222/DeepakTraining.git
+
+echo "# DeepakTraining" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sumesh7353511222/DeepakTraining.git
+git push -u origin master
