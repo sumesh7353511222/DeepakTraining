@@ -12,6 +12,7 @@ namespace StudentReg.DesignPattern
         private GenericRepository<Student> departmentRepository;
         //private GenericRepository<Course> courseRepository;
         //----------------------------------------------------
+        // Hi Vuivek
         public GenericRepository<Student> DepartmentRepository
         {
             get
